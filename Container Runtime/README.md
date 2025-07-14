@@ -54,7 +54,7 @@ export PATH=$PATH:/usr/local/go/bin
 ### 2. Download and extract this repository
 
 ```bash
-git clone https://github.com/yourusername/simple-container
+git clone https://github.com/neda-najjary/Containers-and-Docker
 cd simple-container
 ```
 
@@ -168,4 +168,4 @@ MIT License
 
 ## ✍️ Author
 
-Written by [Your Name], based on a container runtime assignment.
+Written by [Neda Najjary], based on a container runtime assignment.
