@@ -24,7 +24,6 @@ The repository contains the following files:
 .
 ├── main.go                      # Container runtime source code
 ├── go.mod                      # Go module definition
-├── container-rootfs.tar.gz     # Ubuntu 20.04 root filesystem (compressed)
 └── README.md                   # You're reading it
 ```
 
@@ -55,16 +54,13 @@ export PATH=$PATH:/usr/local/go/bin
 
 ```bash
 git clone https://github.com/neda-najjary/Containers-and-Docker
-cd simple-container
+cd Containers-and-Docker
 ```
 
-### 3. Extract the Ubuntu root filesystem
+### 3. Prepare Ubuntu root filesystem
 
-```bash
-tar -xzf container-rootfs.tar.gz
-```
 
-> This will extract the `container-rootfs/` directory, which will be used as the container's root filesystem.
+> see "How the Root Filesystem Was Prepared".
 
 ---
 
