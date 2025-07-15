@@ -5,10 +5,10 @@ This repository contains solutions for the **Containers and Docker** project, in
 ## Structure
 
 - **Problem 1: Container Networking**  
-  See [`Container Networking`](./Container Networking/README.md)
+  See [`Container Networking`](./Container%20Networking/README.md)
 
 - **Problem 2: Container Runtime**  
-  See [`Container Runtime`](./Container Runtime/README.md)
+  See [`Container Runtime`](./Container%20Runtime/README.md)
 
 - **Problem 3: Docker**  
   See [`Docker`](./Docker/README.md)
